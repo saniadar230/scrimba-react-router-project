@@ -63,7 +63,7 @@ function About() {
     <>
       <Navbar />
       <main className="aboutMain">
-        <img src="aboutmain.png"></img>
+        <img src="./public/aboutmain.png"></img>
         <div className="rest">
           <h2> Don’t squeeze in a sedan when you could relax in a van. </h2>
           <p>

@@ -33,7 +33,7 @@ nav .logo {
 }
 
 .homeMain {
-  background-image: url("./mainbg.png");
+  background-image: url("./public/mainbg.png");
   height: 80vh;
   background-size: cover;
   background-repeat: no-repeat;
